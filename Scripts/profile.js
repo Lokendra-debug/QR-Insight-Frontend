@@ -1,7 +1,6 @@
 
 const BaseUrl_profile = `https://confused-mite-bandanna.cyclic.app`
 
-
 const qrcodeuserdetails_qrpage11 = localStorage.getItem('qrcodeuserdetails') || null;
 // console.log(qrcodeuserdetails_qrpage);
 if (!qrcodeuserdetails_qrpage11) {
